@@ -118,17 +118,17 @@ class VrajrajsinhRathod:
     <td>India</td>
   </tr>
   <tr>
-    <td><code>Jan 2022 – Dec 2022</code></td>
-    <td><b>Vinara Solutions</b></td>
-    <td>Python Developer</td>
-    <td>India</td>
-  </tr>
-  <tr>
     <td><code>Aug 2022 – Dec 2022</code></td>
     <td><b>Prius Solutions</b></td>
     <td>Software Developer</td>
     <td>India</td>
   </tr>
+  <tr>
+    <td><code>Jan 2020 – Dec 2022</code></td>
+    <td><b>Vinara Solutions</b></td>
+    <td>Python Developer</td>
+    <td>India</td>
+  </tr>  
 </table>
 
 ---
@@ -139,7 +139,7 @@ class VrajrajsinhRathod:
 
 | 🚀 Response Time | ⚡ API Efficiency | 🐛 Bug Reduction | 👥 Users Served |
 |:-:|:-:|:-:|:-:|
-| **↓ 30%** | **↑ 25%** | **↓ 15%** | **20k+** |
+| **↓ 30%** | **↑ 45%** | **↓ 15%** | **20k+** |
 
 </div>
 
@@ -173,8 +173,6 @@ $ cat current_focus.txt
 - ✅ MATLAB Deep Learning OnRamp
 - ✅ MATLAB Image Processing OnRamp
 - ✅ MATLAB Onramp
-- ✅ Booking Admin (GSTT) — PAS002
-- ✅ Registration (GSTT) — PAS001
 
 </details>
 
