@@ -1,134 +1,204 @@
 <div align="center">
 
-```
-██╗   ██╗██████╗  █████╗      ██╗
-██║   ██║██╔══██╗██╔══██╗     ██║
-██║   ██║██████╔╝███████║     ██║
-╚██╗ ██╔╝██╔══██╗██╔══██║██   ██║
- ╚████╔╝ ██║  ██║██║  ██║╚█████╔╝
-  ╚═══╝  ╚═╝  ╚═╝╚═╝  ╚═╝ ╚════╝ 
-```
+<!-- Animated Typing Header -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Vraj+%F0%9F%91%8B;Full+Stack+Engineer;Python+%7C+ReactJS+%7C+PHP;Cloud+%26+AI+Enthusiast" alt="Typing SVG" />
 
-### Full Stack Software Engineer
-**Python · ReactJS · PHP · Cloud & AI**
+<br/>
+
+<!-- Badges Row -->
+![Location](https://img.shields.io/badge/📍_London,_UK-0D1117?style=for-the-badge&logoColor=white)
+![Open to Work](https://img.shields.io/badge/💼_Open_to_Opportunities-238636?style=for-the-badge&logoColor=white)
+![MSc](https://img.shields.io/badge/🎓_MSc_CS_(Distinction)-1F6FEB?style=for-the-badge&logoColor=white)
+
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vrajrajsinh)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vrajrajsinh-rathod.github.io/portfolio/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rvrajrajsinh@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rvrajrajsinh@gmail.com)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## `$ whoami`
 
 ```python
 class VrajrajsinhRathod:
-    def __init__(self):
-        self.name       = "Vrajrajsinh Rathod"
-        self.role       = "Full Stack Software Engineer"
-        self.location   = "London, United Kingdom 🇬🇧"
-        self.education  = "MSc Computer Science (Distinction) — University of East London"
-        self.languages  = ["Python", "JavaScript", "PHP", "SQL"]
-        self.stack      = ["FastAPI", "ReactJS", "PostgreSQL", "Docker", "AWS", "Azure"]
-        self.currently  = "Freelancing — building backend services for SaaS & e-commerce"
-        self.interests  = ["Cloud Architecture", "AI/ML", "API Design", "Mentoring"]
+
+    name       = "Vrajrajsinh Rathod"
+    role       = "Full Stack Software Engineer"
+    location   = "London, United Kingdom 🇬🇧"
+    education  = "MSc Computer Science — Distinction, University of East London"
+    experience = "4+ years across UK & India"
+
+    stack = {
+        "languages"  : ["Python", "JavaScript", "PHP", "SQL"],
+        "backend"    : ["FastAPI", "Node.js", "RESTful APIs", "OAuth2", "JWT"],
+        "frontend"   : ["ReactJS", "HTML5", "CSS3"],
+        "databases"  : ["PostgreSQL", "MySQL"],
+        "cloud"      : ["AWS", "Azure"],
+        "devops"     : ["Docker", "CI/CD", "Git", "Linux"],
+    }
+
+    interests  = ["Cloud Architecture", "AI/ML in Healthcare", "API Design", "Mentoring"]
+    currently  = "Freelancing — Backend services for SaaS & e-commerce platforms"
 
     def say_hi(self):
-        print("Thanks for stopping by! Let's build something great together.")
+        print("Thanks for stopping by! Let's build something great. 🚀")
 ```
 
 ---
 
-## 🛠️ Tech Stack
+## ⚡ Tech Arsenal
+
+<div align="center">
 
 **Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 
-**Frameworks & Libraries**
+**Backend & APIs**
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![ReactJS](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![OAuth2](https://img.shields.io/badge/OAuth2-EB5424?style=flat-square&logo=auth0&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**Database**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 **Cloud & DevOps**
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-**Databases**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+</div>
 
 ---
 
-## 📈 Experience Highlights
+## 🏢 Experience
 
-| Period | Company | Role |
-|--------|---------|------|
-| May 2025 – Present | **Freelance** | Back End Developer |
-| Jan 2024 – Mar 2025 | **ROI e-Solutions Ltd** · London | Full Stack Engineer |
-| Jan 2023 – Sep 2023 | **Simprosys InfoMedia** · India | Software Engineer |
-| Aug 2022 – Dec 2022 | **Prius Solutions** | Software Developer |
-| Jan 2022 – Dec 2022 | **Vinara Solutions** | Python Developer |
+<table>
+  <tr>
+    <td><b>🗓 Period</b></td>
+    <td><b>🏢 Company</b></td>
+    <td><b>💼 Role</b></td>
+    <td><b>📍 Location</b></td>
+  </tr>
+  <tr>
+    <td><code>May 2025 – Present</code></td>
+    <td><b>Freelance</b></td>
+    <td>Back End Developer</td>
+    <td>London, UK</td>
+  </tr>
+  <tr>
+    <td><code>Jan 2024 – Mar 2025</code></td>
+    <td><b>ROI e-Solutions Ltd</b></td>
+    <td>Full Stack Engineer</td>
+    <td>London, UK</td>
+  </tr>
+  <tr>
+    <td><code>Jan 2023 – Sep 2023</code></td>
+    <td><b>Simprosys InfoMedia</b></td>
+    <td>Software Engineer</td>
+    <td>India</td>
+  </tr>
+  <tr>
+    <td><code>Jan 2022 – Dec 2022</code></td>
+    <td><b>Vinara Solutions</b></td>
+    <td>Python Developer</td>
+    <td>India</td>
+  </tr>
+  <tr>
+    <td><code>Aug 2022 – Dec 2022</code></td>
+    <td><b>Prius Solutions</b></td>
+    <td>Software Developer</td>
+    <td>India</td>
+  </tr>
+</table>
 
-**Key wins across roles:**
-- 🚀 Improved backend response times by **30%** via query optimisation & caching
-- ⚡ Enhanced API endpoint efficiency by **25%** at Simprosys
-- 🐛 Reduced recurring bug rates by **15%** through rigorous SDLC practices
-- 🔐 Implemented **OAuth2 & JWT** auth flows compliant with data protection regulations
-- 🧑‍🏫 Mentored junior developers and led peer code reviews across multiple teams
+---
+
+## 📈 Impact by Numbers
+
+<div align="center">
+
+| 🚀 Response Time | ⚡ API Efficiency | 🐛 Bug Reduction | 👥 Users Served |
+|:-:|:-:|:-:|:-:|
+| **↓ 30%** | **↑ 25%** | **↓ 15%** | **20k+** |
+
+</div>
+
+---
+
+## 🔭 Currently Working On
+
+```bash
+$ cat current_focus.txt
+
+▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░  Backend SaaS Services      [Python + FastAPI]
+▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░  Cloud Infrastructure       [AWS + Docker]
+▓▓▓▓▓▓▓▓░░░░░░░░░░░░  AI/ML in Healthcare        [Alzheimer's Detection]
+▓▓▓▓▓▓░░░░░░░░░░░░░░  Open Source Contributions  [GitHub]
+```
 
 ---
 
 ## 🎓 Education & Certifications
 
-**🎓 MSc Computer Science** — University of East London *(Distinction, 2023–2024)*
-> Research focus: Early Alzheimer's detection using machine learning
+**🎓 MSc Computer Science** — *University of East London* · `2023–2024` · **Distinction**
+> Thesis: Early Alzheimer's Detection using Machine Learning
 
-**🎓 BE Computer Engineering** — Silver Oak University *(2019–2022)*
+**🎓 BE Computer Engineering** — *Silver Oak University* · `2019–2022`
 
-**📜 Certifications**
-- MATLAB Deep Learning OnRamp
-- MATLAB Image Processing OnRamp
-- MATLAB Onramp
-- Booking Admin (GSTT) — PAS002
-- Registration (GSTT) — PAS001
+<details>
+<summary><b>📜 View Certifications</b></summary>
 
----
+<br/>
 
-## 📊 GitHub Stats
+- ✅ MATLAB Deep Learning OnRamp
+- ✅ MATLAB Image Processing OnRamp
+- ✅ MATLAB Onramp
+- ✅ Booking Admin (GSTT) — PAS002
+- ✅ Registration (GSTT) — PAS001
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vrajrajsinh-Rathod&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vrajrajsinh-Rathod&layout=compact&theme=github_dark&hide_border=true)
-
-</div>
+</details>
 
 ---
 
 ## 🤝 Let's Connect
 
-I'm always open to interesting conversations about **software engineering**, **cloud architecture**, or **AI/ML applications**. Reach out if you want to collaborate or just chat tech!
-
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vrajrajsinh)
+I'm always open to discussing **software engineering**, **cloud architecture**, and **AI applications in healthcare**.
+Whether it's collaboration, freelance work, or just a tech chat — reach out!
 
-</div>
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vrajrajsinh)
+[![Portfolio](https://img.shields.io/badge/View_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vrajrajsinh-rathod.github.io/portfolio/)
+[![Email](https://img.shields.io/badge/Send_a_Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rvrajrajsinh@gmail.com)
+
+<br/>
 
 ---
 
-<div align="center">
-<sub>⚡ Building reliable, scalable software — one commit at a time.</sub>
+<img src="https://komarev.com/ghpvc/?username=Vrajrajsinh-Rathod&label=Profile+Views&color=58A6FF&style=flat" alt="Profile Views" />
+
+*⚡ Building reliable, scalable software — one commit at a time.*
+
 </div>
