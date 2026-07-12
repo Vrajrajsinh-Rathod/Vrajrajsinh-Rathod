@@ -170,12 +170,6 @@ class VrajrajsinhRathod:
     <td><b>Location</b></td>
   </tr>
   <tr>
-    <td><code>May 2025 – Present</code></td>
-    <td><b>Self-Employed</b></td>
-    <td>Backend / Full Stack Developer</td>
-    <td>London, UK 🇬🇧</td>
-  </tr>
-  <tr>
     <td><code>Jan 2024 – Mar 2025</code></td>
     <td><b>ROI e-Solutions Ltd</b></td>
     <td>Full Stack Developer</td>
