@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Vrajrajsinh+%F0%9F%91%8B;Software+Engineer;" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Vrajrajsinh+%F0%9F%91%8B;Senior+Python+Developer;" alt="Typing SVG" />
 
 <br/>
 
@@ -25,7 +25,7 @@
 class VrajrajsinhRathod:
 
     name        = "Vrajrajsinh Rathod"
-    role        = "Backend Software Engineer"
+    role        = "Senior Python Developer"
     location    = "London, United Kingdom 🇬🇧"
     education   = "MSc Computer Science — Distinction (83%), University of East London"
     experience  = "5+ years building scalable APIs & cloud-deployed services"
@@ -42,8 +42,8 @@ class VrajrajsinhRathod:
         "architecture": ["Microservices", "Event-Driven", "RESTful APIs", "TDD"],
     }
 
-    currently   = "Freelancing — greenfield backend for SaaS & e-commerce clients"
-    available   = True  # open to hybrid / onsite roles in London
+    currently   = "Senior Python Developer (contract) @ Roboyo — fintech loan platform backend"
+    available   = True  # open to permanent Senior Backend / Full Stack roles in London
 
     def say_hi(self):
         print("Let's build something reliable, scalable, and fast. 🚀")
@@ -127,6 +127,7 @@ class VrajrajsinhRathod:
     <td width="50%" valign="top">
       <h3>🛒 LetMeKnow — Mobile E-Commerce Backend</h3>
       <p><code>Python</code> · <code>Flask</code> · <code>MongoDB</code> · <code>AWS</code></p>
+      <p>🔒 <i>Private repository — client project, code not publicly shareable</i></p>
       <ul>
         <li>Multi-vendor product listings, cart, real-time order tracking</li>
         <li>Stripe integration — reduced checkout failures by <b>25%</b></li>
@@ -139,6 +140,7 @@ class VrajrajsinhRathod:
     <td width="50%" valign="top">
       <h3>🛍️ Shoptronics — eCommerce Web Portal</h3>
       <p><code>Python</code> · <code>Shopify API</code> · <code>PostgreSQL</code></p>
+      <p>🔒 <i>Private repository — client project, code not publicly shareable</i></p>
       <ul>
         <li>Handles <b>10k+ daily transactions</b> reliably</li>
         <li>Shopify API sync eliminated manual reconciliation errors by <b>30%</b></li>
@@ -168,6 +170,12 @@ class VrajrajsinhRathod:
     <td><b>Company</b></td>
     <td><b>Role</b></td>
     <td><b>Location</b></td>
+  </tr>
+  <tr>
+    <td><code>Sept 2026 – Present</code></td>
+    <td><b>Roboyo</b></td>
+    <td>Senior Python Developer (Contract)</td>
+    <td>London, UK 🇬🇧</td>
   </tr>
   <tr>
     <td><code>Jan 2024 – Mar 2025</code></td>
@@ -241,7 +249,8 @@ $ cat current_focus.txt
 
 <div align="center">
 
-Open to **hybrid & onsite roles in London** · Available for **freelance backend projects** worldwide
+Currently on contract as a **Senior Python Developer at Roboyo**, building fintech backend systems.
+Still open to the right **permanent Senior Backend / Full Stack role in London**, and happy to hear about freelance backend work too.
 Feel free to reach out about software engineering, cloud architecture, or AI/ML.
 
 <br/>
