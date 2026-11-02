@@ -256,7 +256,7 @@ Feel free to reach out about software engineering, cloud architecture, or AI/ML.
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vrajrajsinh)
-[![Portfolio](https://img.shields.io/badge/View_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vrajrajsinh-rathod.github.io/portfolio/)
+[![Portfolio](https://img.shields.io/badge/View_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vrajraj.is-a.dev/)
 [![Email](https://img.shields.io/badge/Send_a_Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rvrajrajsinh@gmail.com)
 
 <br/>
